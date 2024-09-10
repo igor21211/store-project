@@ -1,5 +1,5 @@
 # Deploy Version
-https://akkerman-store.netlify.app/
+https://store-online-abp.netlify.app/
 
 
 # React + TypeScript + Vite
